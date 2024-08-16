@@ -1,9 +1,7 @@
+import Blog from "pages/blog"
+
 function App() {
-  return (
-    <div className="App">
-      <div className="text-4xl text-red-400">hello</div>
-    </div>
-  )
+  return <Blog />
 }
 
 export default App
